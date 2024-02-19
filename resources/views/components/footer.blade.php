@@ -2375,7 +2375,7 @@
     <div id="onetrust-banner-sdk" class="otFlat bottom ot-wo-title vertical-align-content" tabindex="0" role="region"
         aria-label="Cookie banner" style="bottom: 0px">
         <div role="alertdialog" aria-describedby="onetrust-policy-text" aria-label="Privacy">
-            <div class="ot-sdk-container">
+            <!-- <div class="ot-sdk-container">
                 <div class="ot-sdk-row">
                     <div id="onetrust-group-container" class="ot-sdk-eight ot-sdk-columns">
                         <div class="banner_logo"></div>
@@ -2398,7 +2398,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Close Button -->
             <div id="onetrust-close-btn-container">
                 <button class="onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon"

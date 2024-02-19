@@ -4,28 +4,9 @@
 <section class="coBrandedNav desktopNav">
     <ul class="coBrandedLinks" aria-label="Other Intuit Brands">
         <li class="coBrandedLinks__intuit">
-            <a href="https://www.intuit.com/" aria-label="Intuit" target="_blank" data-event-handler="manual" onclick='window.tr.pushEvent("e_click", {
-    "category":"coBrandedNavDesktop",
-    "action":"click",
-    "label":"image_link: intuit"
-}, this)' oncontextmenu='window.tr.pushEvent("e_click", {
-    "category":"coBrandedNavDesktop",
-    "action":"context click",
-    "label":"image_link: intuit"
-}, this)' rel="noopener noreferrer">
-                <svg class="brandLogoIntuit" width="80" height="16" viewBox="0 0 80 16" fill="none"
-                    xmlns="http://www.w3.org/2000/svg">
-                    <path d="M33.6468 4V16H29.5807V4H24.7014V0H38.526V4H33.6468Z" fill="#241C15"></path>
-                    <path
-                        d="M14.9428 0C19.0544 0 22.2618 2.8 22.2618 6.8V16H18.1957V7.2C18.1957 5.13548 16.7997 3.8 14.9428 3.8C13.086 3.8 11.69 5.13548 11.69 7.2V16H7.62389V6.8C7.62389 2.8 10.8312 0 14.9428 0Z"
-                        fill="#241C15"></path>
-                    <path d="M0 0H4.06607V16H0V0Z" fill="#241C15"></path>
-                    <path d="M75.1207 4V16H71.0546V4H66.1753V0H80V4H75.1207Z" fill="#241C15"></path>
-                    <path
-                        d="M48.3863 16C52.4979 16 55.7052 13.2 55.7052 9.2V0H51.6391V8.8C51.6391 10.8645 50.2431 12.2 48.3863 12.2C46.5294 12.2 45.1334 10.8645 45.1334 8.8V0H41.0673V9.2C41.0673 13.2 44.2746 16 48.3863 16Z"
-                        fill="#241C15"></path>
-                    <path d="M59.3647 0H63.4307V16H59.3647V0Z" fill="#241C15"></path>
-                </svg>
+            <a style="font-weight: bold;" href="https://www.intuit.com/" aria-label="Intuit" target="_blank"
+                data-event-handler="manual" rel="noopener noreferrer">
+                connectOWL
             </a>
         </li>
         <li class="coBrandedLinks__turbotax" hidden="">
@@ -269,15 +250,6 @@
         </li>
     </ul>
 </section>
-
-<div class="freeTrial--banner discount__banner--global flex flex--center flex--middle iaNav discount_promo"
-    data-behavior="freeTrialBanner" data-dollar-promo-node="">
-    <span>
-        <p>Save 50% for 12 months</p>
-        - limited time offer.
-        <a href="https://mailchimp.com/pricing/marketing/">Get started today</a>
-    </span>
-</div>
 
 <header class="iaGlobalNav" data-module-id="iaGlobalNav" data-behavior="iaGlobalNav" data-swiftype-index="false"
     data-expanded="false" data-free-trial-enabled="false" data-menu-position="top">
@@ -1059,7 +1031,7 @@
                         </div>
                     </section>
                 </li>
-                <li data-hide-extra-small="" data-hide-small="" data-hide-medium="">
+                <!-- <li data-hide-extra-small="" data-hide-small="" data-hide-medium="">
                     <button aria-expanded="false" aria-haspopup="true"
                         aria-controls="topbarPanel-7xlSYIo3xj3AfR2qwGAtBM" data-top-level="true"
                         data-topbar-panel="true" data-behavior="iaNav:panelTrigger" class="iaNav__cta"
@@ -1494,7 +1466,7 @@
                             </div>
                         </div>
                     </section>
-                </li>
+                </li> -->
                 <li data-hide-extra-small="" data-hide-small="" data-hide-medium="">
                     <a href="https://mailchimp.com/switch-to-mailchimp/" class="iaNav__cta">Switch to Mailchimp</a>
                 </li>

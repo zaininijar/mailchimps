@@ -3,6 +3,22 @@
         <section id="1vBIMoxoTYg728FqlyyuOB" class="p23hero module module--noPadding backgroundCoconut"
             data-module-id="p23Hero" data-entry-id="1vBIMoxoTYg728FqlyyuOB" data-behavior="p23Hero ">
             <div class="p23hero__content flex flex--columns-2 mainContent__media_fullbleed">
+                <div class="p23hero__mediaContainer__media_fullbleed">
+                    <figure class="image__media_fullbleed">
+                        <picture>
+                            <source sizes="(min-width: 1600px) 1600px, 100vw"
+                                srcset="https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c"
+                                type="image/avif" />
+                            <source sizes="(min-width: 1600px) 1600px, 100vw"
+                                srcset="https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c"
+                                type="image/webp" />
+                            <img src="https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c"
+                                class="mediaImage__image" sizes="(min-width: 1600px) 1600px, 100vw" width="1500"
+                                height="1164" />
+                        </picture>
+                    </figure>
+                </div>
+
                 <div class="p23hero__copyContainer">
                     <div class="p23hero__copyHolder mainContainer__media_fullbleed">
                         <p class="p23hero__eyebrow copy-eyebrow margin--bottom-2">
@@ -33,22 +49,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="p23hero__mediaContainer__media_fullbleed">
-                    <figure class="image__media_fullbleed">
-                        <picture>
-                            <source sizes="(min-width: 1600px) 1600px, 100vw" srcset="
-                    https://eep.io/images/yzco4xsimv0y/6cUjm8mOAd1ClKIVv0G8AS/a3b9c773ea16ad4f7dde485b94bba223/Switch_to_Mailchimp_-_Hero.png?w=1520&amp;fm=avif&amp;q=60
-                  " type="image/avif" />
-                            <source sizes="(min-width: 1600px) 1600px, 100vw" srcset="
-                    https://eep.io/images/yzco4xsimv0y/6cUjm8mOAd1ClKIVv0G8AS/a3b9c773ea16ad4f7dde485b94bba223/Switch_to_Mailchimp_-_Hero.png?w=1520&amp;fm=webp&amp;q=70
-                  " type="image/webp" />
-                            <img src="{{ asset('assets') }}/Switch_to_Mailchimp_-_Hero.png" class="mediaImage__image"
-                                sizes="(min-width: 1600px) 1600px, 100vw"
-                                alt="A cluster of buttons reading “Email &amp; SMS marketing,” “Automated journeys,” and “Content creation,” next to imagery of a product email, an automated user flow, and a generated brand asset, respectively. "
-                                width="1500" height="1164" />
-                        </picture>
-                    </figure>
-                </div>
             </div>
         </section>
 
@@ -61,25 +61,24 @@
                             data-entry-id="59sZmWhYG4cRvxxbbVoncG">
                             <div data-equalize-height="p23horizontalGrid_6dDTl9GxY6QIYcpNhnaeFQ" style="height: 96px">
                                 <h2 class="p23hg__title copy-large">
-                                    12 million global users
+                                    Automation save 4 Hours a day
                                 </h2>
 
                                 <div class="copy-prose copy-small margin--top-2">
-                                    <p>trust Mailchimp with their marketing</p>
+                                    <p>connectOWL helps improve business workflow</p>
                                 </div>
                             </div>
                         </li>
                         <li class="p23HorizontalGrid__grid__gridItem" data-component-id="p23HorizontalGridUnlinkedItem"
                             data-entry-id="1IJHS7xtkMIf9GRXcOnmW7">
                             <div data-equalize-height="p23horizontalGrid_6dDTl9GxY6QIYcpNhnaeFQ" style="height: 96px">
-                                <h2 class="p23hg__title copy-large">4.4/5 star rating</h2>
+                                <h2 class="p23hg__title copy-large">Give more eXperience to Customers </h2>
 
                                 <div class="copy-prose copy-small margin--top-2">
                                     <p>
-                                        based on
-                                        <a href="https://www.capterra.com/p/110228/MailChimp/">Capterra</a>
-                                        reviews for ease of use, customer service, features,
-                                        value, and more*
+                                        in
+                                        <a href="https://www.capterra.com/p/110228/MailChimp/">connectOWL</a>
+                                        giving best eXperience between users and customers
                                     </p>
                                 </div>
                             </div>
@@ -88,13 +87,13 @@
                             data-entry-id="3FtjFUFzoiahnc8ukt9If8">
                             <div data-equalize-height="p23horizontalGrid_6dDTl9GxY6QIYcpNhnaeFQ" style="height: 96px">
                                 <h2 class="p23hg__title copy-large">
-                                    89% of customers agree
+                                    98% Customers happy with fast respon time
                                 </h2>
 
                                 <div class="copy-prose copy-small margin--top-2">
                                     <p>
-                                        our personalized onboarding service made it easy for them
-                                        to onboard to the platform*
+                                        Absolutly, customers will happy
+
                                     </p>
                                 </div>
                             </div>
@@ -111,22 +110,22 @@
                     <figure class="image animate--show" data-animate="fade-up-in">
                         <picture>
                             <source sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw" srcset="
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=640&amp;fm=avif&amp;q=60   640w,
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=842&amp;fm=avif&amp;q=60   842w,
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=1280&amp;fm=avif&amp;q=60 1280w,
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=1684&amp;fm=avif&amp;q=60 1684w
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=640&amp;fm=avif&amp;q=60   640w,
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=842&amp;fm=avif&amp;q=60   842w,
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=1280&amp;fm=avif&amp;q=60 1280w,
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=1684&amp;fm=avif&amp;q=60 1684w
                   " type="image/avif" />
                             <source sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw" srcset="
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=640&amp;fm=webp&amp;q=70   640w,
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=842&amp;fm=webp&amp;q=70   842w,
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=1280&amp;fm=webp&amp;q=70 1280w,
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=1684&amp;fm=webp&amp;q=70 1684w
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=640&amp;fm=webp&amp;q=70   640w,
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=842&amp;fm=webp&amp;q=70   842w,
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=1280&amp;fm=webp&amp;q=70 1280w,
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=1684&amp;fm=webp&amp;q=70 1684w
                   " type="image/webp" />
                             <img src="{{ asset('assets') }}/Switch_to_Mailchimp_-_Intuit_Assist.png" srcset="
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=640&amp;q=70   640w,
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=842&amp;q=70   842w,
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=1280&amp;q=70 1280w,
-                    https://eep.io/images/yzco4xsimv0y/2j2BU2bKW2Rvtb1EjTH1E0/10e784d04374f157ec1dd3d86070f5ab/Switch_to_Mailchimp_-_Intuit_Assist.png?w=1684&amp;q=70 1684w
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=640&amp;q=70   640w,
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=842&amp;q=70   842w,
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=1280&amp;q=70 1280w,
+                    https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=2000&t=st=1708314857~exp=1708315457~hmac=35f307d64352615ea6f098774b8b15aebeffaab400adcafa6a12e0bb8d42430c?w=1684&amp;q=70 1684w
                   " sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw" loading="lazy"
                                 alt="An Intuit Assist prompt bar, reading “Generating… Applying your brand styles,” above a user interface with text that reads “(Beta) Promote a product or service: Let your customers know what’s new in your shop. We’ll populate your product information, brand styles, and content—all you have to do is review and send.” A button below the text reads “Generate draft.”"
                                 width="1270" height="880" />
@@ -138,15 +137,13 @@
                         Let Intuit Assist help you personalize your marketing at scale*
                     </h2>
                     <p>
-                        Mailchimp uses generative AI to automate manual marketing
-                        tasks—such as writing a first draft or visualizing data. This can
-                        help you boost customer engagement and drive higher conversion.
+                        With a dedicated team of tech enthusiasts, we have crafted a Managed Service product called
+                        connectOWL that caters to the diverse needs of a broad market segment
                     </p>
                     <p></p>
                     <div class="cta__holder cta__p23_arrow_link_small">
-                        <a class="ctaArrow cta--small" href="https://mailchimp.com/features/ai-tools/"
-                            aria-label="Explore AI marketing tools">
-                            Explore AI marketing tools
+                        <a class="ctaArrow cta--small" href="#" aria-label="Learn more for Manage Services">
+                            Learn more for Manage Services
                         </a>
                     </div>
                 </div>
@@ -156,7 +153,7 @@
             data-module-id="p23HorizontalGrid" data-entry-id="69Z6kTVJSEZ2apNxZsR3Xr" data-behavior="p23HorizontalGrid">
             <div class="module--content">
                 <h2 class="h2 margin--bottom-5">
-                    Explore the key features of Mailchimp
+                    Explore main services of connectOWL
                 </h2>
 
                 <div class="p23hg__section">
@@ -179,7 +176,7 @@
                                         </picture>
                                     </figure>
                                     <h3 class="h3 copy-medium copy--bold flex flex--nowrap p23hg__title margin--top-3">
-                                        Marketing automations
+                                        Automation Management System - OptiFlow
                                         <svg width="19" height="18" viewBox="0 0 19 18" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -189,9 +186,8 @@
                                     </h3>
 
                                     <p class="margin--top-2 copy-small">
-                                        Unlock the power of marketing automations to streamline
-                                        and optimize your campaigns, saving time and maximizing
-                                        your reach.
+                                        Automation systems to improve operational efficiency and automate business
+                                        processes to increase productivity
                                     </p>
                                 </a>
                             </div>
@@ -213,7 +209,7 @@
                                         </picture>
                                     </figure>
                                     <h3 class="h3 copy-medium copy--bold flex flex--nowrap p23hg__title margin--top-3">
-                                        SMS marketing
+                                        Learning Management System(LMS) - ClassSphere
                                         <svg width="19" height="18" viewBox="0 0 19 18" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -223,9 +219,8 @@
                                     </h3>
 
                                     <p class="margin--top-2 copy-small">
-                                        Engage your audience with SMS marketing and drive
-                                        conversions in a direct and impactful way. Available for
-                                        US-based users only.*
+                                        An integrated software platform for managing online training and learning
+                                        programs, including course management, materials, and evaluation.
                                     </p>
                                 </a>
                             </div>
@@ -248,7 +243,7 @@
                                         </picture>
                                     </figure>
                                     <h3 class="h3 copy-medium copy--bold flex flex--nowrap p23hg__title margin--top-3">
-                                        Reporting &amp; analytics
+                                        AI-Driven
                                         <svg width="19" height="18" viewBox="0 0 19 18" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -258,9 +253,7 @@
                                     </h3>
 
                                     <p class="margin--top-2 copy-small">
-                                        Gain valuable insights and make data-driven decisions
-                                        through reporting and analytics, enabling you to maximize
-                                        the success of your marketing efforts.
+                                        With AI help better result, experience and the way you use the application
                                     </p>
                                 </a>
                             </div>
@@ -283,7 +276,7 @@
                                         </picture>
                                     </figure>
                                     <h3 class="h3 copy-medium copy--bold flex flex--nowrap p23hg__title margin--top-3">
-                                        Audience management
+                                        Omnichannel - eXmanage
                                         <svg width="19" height="18" viewBox="0 0 19 18" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -293,44 +286,9 @@
                                     </h3>
 
                                     <p class="margin--top-2 copy-small">
-                                        Effectively segment your audience to deliver personalized
-                                        and targeted messages that resonate, to help lead to
-                                        higher engagement and conversion rates.
-                                    </p>
-                                </a>
-                            </div>
-                        </li>
-                        <li class="p23HorizontalGrid__grid__gridItem" data-component-id="p23HorizontalGridCompactItem"
-                            data-entry-id="14heS4f37HVLsuFrqN56fh">
-                            <div data-equalize-height="p23horizontalGrid_2vndgjbN7OyleuLKK1G31k" style="height: 176px">
-                                <a class="p23hg__itemCta"
-                                    href="https://mailchimp.com/solutions/content-creation-tools/">
-                                    <figure class="p23hg__itemIcon">
-                                        <picture>
-                                            <source sizes="40px" srcset="
-                            https://eep.io/images/yzco4xsimv0y/1e56tsR8jkZnLktESBMeDe/9178208bf8a22d1bea68311d5c68d605/Icon_-_Content_Creation.png?w=40&amp;fm=avif&amp;q=60
-                          " type="image/avif" />
-                                            <source sizes="40px" srcset="
-                            https://eep.io/images/yzco4xsimv0y/1e56tsR8jkZnLktESBMeDe/9178208bf8a22d1bea68311d5c68d605/Icon_-_Content_Creation.png?w=40&amp;fm=webp&amp;q=70
-                          " type="image/webp" />
-                                            <img src="{{ asset('assets') }}/Icon_-_Content_Creation.png" sizes="40px"
-                                                loading="lazy" alt="" width="61" height="60" />
-                                        </picture>
-                                    </figure>
-                                    <h3 class="h3 copy-medium copy--bold flex flex--nowrap p23hg__title margin--top-3">
-                                        Content creation
-                                        <svg width="19" height="18" viewBox="0 0 19 18" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <path
-                                                d="M14.9 10.2H1V8.2H14.9L9.3 2.4L10.8 1L18.4 9.2L10.8 17.4L9.3 16L14.9 10.2Z"
-                                                fill="currentColor"></path>
-                                        </svg>
-                                    </h3>
+                                        Solutions to integrate and manage multiple communication and sales channels,
+                                        enabling a seamless consumer experience across multiple platforms.
 
-                                    <p class="margin--top-2 copy-small">
-                                        Streamline content creation with customizable templates
-                                        and tools, resulting in content that visually engages your
-                                        audience.
                                     </p>
                                 </a>
                             </div>
@@ -339,61 +297,13 @@
                 </div>
             </div>
         </section>
-        <section class="p23FlexibleHighlight module backgroundCoconut" id="76Gw9Vazy5fIepv1pVOIyZ"
-            data-behavior="p23FlexibleHighlight" data-module-id="p23FlexibleHighlight"
-            data-entry-id="76Gw9Vazy5fIepv1pVOIyZ">
-            <div class="module--content align--center">
-                <div class="column column1">
-                    <figure class="image animate--show" data-animate="fade-up-in">
-                        <picture>
-                            <source sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw" srcset="
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=640&amp;fm=avif&amp;q=60   640w,
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=842&amp;fm=avif&amp;q=60   842w,
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=1280&amp;fm=avif&amp;q=60 1280w,
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=1684&amp;fm=avif&amp;q=60 1684w
-                  " type="image/avif" />
-                            <source sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw" srcset="
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=640&amp;fm=webp&amp;q=70   640w,
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=842&amp;fm=webp&amp;q=70   842w,
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=1280&amp;fm=webp&amp;q=70 1280w,
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=1684&amp;fm=webp&amp;q=70 1684w
-                  " type="image/webp" />
-                            <img src="{{ asset('assets') }}/Switch_to_Mailchimp_-_G2_Badges.png" srcset="
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=640&amp;q=70   640w,
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=842&amp;q=70   842w,
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=1280&amp;q=70 1280w,
-                    https://eep.io/images/yzco4xsimv0y/3dUqKEcbWifSpAmOpt0M0N/38b5ff10f4d485e8d0cf386aff4821d4/Switch_to_Mailchimp_-_G2_Badges.png?w=1684&amp;q=70 1684w
-                  " sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw" loading="lazy"
-                                alt="Four badges. The first badge reads, “Top 50 Marketing Products, Best Software Awards, 2023.” The second reads, “Leader, Mid-Market, 2023.” The third reads, “ “Best Results, Enterprise, 2023.” The fourth reads, “Best Est. ROI, Enterprise, Spring 2023.”"
-                                width="1270" height="880" />
-                        </picture>
-                    </figure>
-                </div>
-                <div class="column column2">
-                    <h2 class="h2">See why 12M+ users chose Mailchimp</h2>
-                    <p>
-                        Our users leverage data-driven tools to help them learn what
-                        works, improve future campaigns, and turn insights into action.
-                    </p>
-                    <p>
-                        Source:
-                        <a href="https://www.g2.com/products/intuit-mailchimp/reviews"><u>G2.com, Inc</u></a>
-                    </p>
-                    <p></p>
-                    <div class="cta__holder cta__secondary">
-                        <a class="ctaSecondary" href="https://mailchimp.com/resources/mailchimp-comparisons/"
-                            aria-label="See how we compare">
-                            See how we compare
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
         <section id="4CZBzRmthW5ZtkTejeBQuD" class="p23HorizontalGrid module backgroundCoconut"
             data-module-id="p23HorizontalGrid" data-entry-id="4CZBzRmthW5ZtkTejeBQuD" data-behavior="p23HorizontalGrid">
             <div class="module--content">
-                <h2 class="h2 margin--bottom-6">How we compare</h2>
-
+                <div class="margin--bottom-6">
+                    <h2 class="h2">connect All or connectOWL?</h2>
+                    <p>Connect Orchestrated, Well-tailored Lifecycle</p>
+                </div>
                 <div class="p23hg__section">
                     <ul data-equalizer="" class="p23HorizontalGrid__grid grid--columns-3">
                         <li class="p23HorizontalGrid__grid__gridItem" data-component-id="p23HorizontalGridItem"
@@ -420,13 +330,12 @@
                                         </picture>
                                     </figure>
                                     <h3 class="p23hg__title copy-large margin--top-4">
-                                        Mailchimp vs Klaviyo
+                                        Orchestrated
                                     </h3>
 
                                     <p class="margin--top-2 copy-small">
-                                        Klaviyo can cost twice as much as Mailchimp, but offers
-                                        less support and fewer marketing channels and features for
-                                        the same audience count.*
+                                        Managed services by ConnectOWL are expertly organized, ensuring a seamless and
+                                        integrated approach to IT management.
                                     </p>
                                 </a>
                             </div>
@@ -460,13 +369,12 @@
                                         </picture>
                                     </figure>
                                     <h3 class="p23hg__title copy-large margin--top-4">
-                                        Mailchimp vs Hubspot
+                                        Well-tailored
                                     </h3>
 
                                     <p class="margin--top-2 copy-small">
-                                        Mailchimp offers many of the same powerful features and
-                                        services as HubSpot, sometimes at less than a tenth of the
-                                        price.*
+                                        ConnectOWL provides welldesigned solutions, customizing managed services to meet
+                                        the specific needs of each client
                                     </p>
                                 </a>
                             </div>
@@ -501,13 +409,12 @@
                                         </picture>
                                     </figure>
                                     <h3 class="p23hg__title copy-large margin--top-4">
-                                        Mailchimp vs Active Campaign
+                                        Lifecycle
                                     </h3>
 
                                     <p class="margin--top-2 copy-small">
-                                        Our paid plans make scaling your business both easy and
-                                        affordable, with more value offered at a fraction of the
-                                        price.*
+                                        ConnectOWL manages the entire IT lifecycle, offering comprehensive support from
+                                        planning and implementation to ongoing optimization.
                                     </p>
                                 </a>
                             </div>
@@ -527,43 +434,39 @@
             data-entry-id="16fO9QJysk5djMPxlwjm9A">
             <div class="module--content align--center">
                 <div class="column column1">
-                    <h2 class="h2">Minimize disruptions while you switch</h2>
+                    <h2 class="h2">
+                        eXmanage Omnichannel makes Connect All(OWL) Customer
+                    </h2>
                     <p>
-                        With our integrations and open API, you can migrate data across
-                        multiple platforms. This empowers you to continue using the tools
-                        you already love.
+                        With our omnichannel, you can manage most famous channel with one lovely platform called
+                        eXmanage
                     </p>
                     <p></p>
                     <div class="cta__holder cta__p23_arrow_link_small">
                         <a class="ctaArrow cta--small" href="https://mailchimp.com/integrations/"
-                            aria-label="Explore integrations">
-                            Explore integrations
+                            aria-label="Explore Omnichannel">
+                            Explore Omnichannel
                         </a>
                     </div>
                 </div>
                 <div class="column column2">
-                    <figure class="image animate--show" data-animate="fade-up-in">
+                    <figure class=" image animate--show" data-animate="fade-up-in">
                         <picture>
                             <source sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw" srcset="
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=640&amp;fm=avif&amp;q=60   640w,
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=842&amp;fm=avif&amp;q=60   842w,
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=1280&amp;fm=avif&amp;q=60 1280w,
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=1684&amp;fm=avif&amp;q=60 1684w
-                  " type="image/avif" />
+                            {{ asset('assets') }}/Image.png   640w,
+                            {{ asset('assets') }}/Image.png  842w,
+                            {{ asset('assets') }}/Image.png 1280w,
+                            {{ asset('assets') }}/Image.png  1684w
+                        " type="image/avif" />
                             <source sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw" srcset="
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=640&amp;fm=webp&amp;q=70   640w,
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=842&amp;fm=webp&amp;q=70   842w,
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=1280&amp;fm=webp&amp;q=70 1280w,
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=1684&amp;fm=webp&amp;q=70 1684w
-                  " type="image/webp" />
-                            <img src="{{ asset('assets') }}/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png" srcset="
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=640&amp;q=70   640w,
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=842&amp;q=70   842w,
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=1280&amp;q=70 1280w,
-                    https://eep.io/images/yzco4xsimv0y/2FXr28lXnmpvoKtsS6wdu2/6eed1741608ffffd98132e5d3f263b6f/Switch_to_Mailchimp_-_Integarations_-_Icon_Grid.png?w=1684&amp;q=70 1684w
-                  " sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw" loading="lazy"
-                                alt="Logos stacked three-on-three. In the top row are Instagram, Shopify, and Wix. In the middle row are Salesforce, Canva, and LiveChat. In the bottom row are Google, Photoshop, and Quickbooks. "
-                                width="1905" height="1320" />
+                                    {{ asset('assets') }}/Image.png  640w,
+                                    {{ asset('assets') }}/Image.png  842w,
+                                    {{ asset('assets') }}/Image.png 1280w,
+                                    {{ asset('assets') }}/Image.png  1684w
+                                " type="image/webp" />
+                            <img src="{{ asset('assets') }}/Image.png"
+                                sizes="(min-width: 88.888888888889em) 640px, (min-width: 62em) 45vw, 85vw"
+                                loading="lazy" width="1905" height="1320" />
                         </picture>
                     </figure>
                 </div>
@@ -1077,89 +980,5 @@
             </div>
         </div>
 
-        <div class="p23Headliner module backgroundJasmine module--reducedPadding" id="5QKFyMG36G6QKYn7C8NCHV"
-            data-behavior="p23Headliner" data-module-id="p23Headliner" data-entry-id="5QKFyMG36G6QKYn7C8NCHV">
-            <div class="module--content module--content-float-left">
-                <div class="copy-legal">
-                    <p><strong>*Disclaimers</strong></p>
-                    <ol>
-                        <li>
-                            Based on competitor brands' publicly available data on worldwide
-                            numbers of customers in 2021/2022.
-                        </li>
-                        <li>
-                            Capterra reviews constitute the subjective opinions of
-                            individual end users based on their own experiences and do not
-                            represent the views of Capterra or its affiliates.
-                        </li>
-                        <li>
-                            Based on Mailchimp survey of Standard and Essentials plan
-                            onboarding service users who had an opinion from Oct 2022 - May
-                            2023. Services differ by plan.
-                        </li>
-                        <li>
-                            Intuit Assist functionality (beta) is available to certain users
-                            with Premium, Standard and Legacy plans in select countries in
-                            English only. Access to Intuit Assist is available at no
-                            additional cost at this time. Pricing, terms, conditions,
-                            special features and service options are subject to change
-                            without notice. Availability of features and functionality
-                            varies by plan type. Features may be broadly available soon but
-                            represents no obligation and should not be relied on in making a
-                            purchasing decision.. For details, please view Mailchimp’s
-                            various plans and pricing.
-                        </li>
-                        <li>
-                            SMS is available as an add-on to US paid plans only and SMS
-                            credits are added to your account after purchase. Application
-                            and agreement to terms is required before purchasing credits.
-                            Credits are issued monthly and unused credits expire and do not
-                            roll over. Pricing varies. See terms for details.
-                        </li>
-                        <li>
-                            Comparison based on features and plans listed on Klaviyo.com for
-                            as of 6/20/23. Klaviyo offered fewer support channels, fewer
-                            marketing channels and fewer marketing features for 100,000+
-                            contacts than Mailchimp’s Standard plan ($800mo/+) for the same
-                            audience count. Both offer email marketing, but Mailchimp offers
-                            social media posting, postcards, and websites and supports
-                            customers on social media and phones.
-                        </li>
-                        <li>
-                            Comparisons based on features and prices listed on HubSpot.com
-                            as of 6/20/23. HubSpot’s Marketing Hub Professional plan starts
-                            at $890/mo for 2,000 contacts plus a required $3,000 one-time
-                            onboarding fee compared to Mailchimp’s Standard plan, which
-                            starts at $60/mo for 2,500 contacts with personalized onboarding
-                            included in price.
-                        </li>
-                        <li>
-                            Comparisons based on features and prices listed on
-                            ActiveCampaign.com as of 6/15/23. ActiveCampaign’s pricing for
-                            50,000 contacts is $699/mo+ on their Plus (mid-tier) plan.
-                            Mailchimp Standard marketing plan for 50,000 contacts is
-                            $410/mo+.
-                        </li>
-                        <li>
-                            Onboarding services differ per plan and are available for new or
-                            upgraded users with a paid plan for the first 90 days after
-                            account creation or upgrade. Onboarding services are currently
-                            offered in English, Spanish and Portuguese for Premium plans,
-                            and in English for Standard plans.
-                        </li>
-                        <li>
-                            Customer Success is included with select custom plans that spend
-                            at least $299 per month with Mailchimp. All calls with the
-                            Mailchimp customer success team are currently only available in
-                            English. Translation into select languages upon request.
-                        </li>
-                        <li>
-                            Availability of features and functionality varies by plan type.
-                            For details, please view Mailchimp's various plans and pricing.
-                        </li>
-                    </ol>
-                </div>
-            </div>
-        </div>
     </main>
 </x-app-layout>
