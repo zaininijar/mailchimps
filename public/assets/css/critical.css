@@ -5,7 +5,7 @@
     font-weight: 300; /* Light */
     font-style: normal;
   }
-  
+
 @font-face {
     font-family: "Graphik Web";
     src: url("../fonts/Graphik Light.woff2") format("woff2");
@@ -35,7 +35,7 @@
 }
 
 .backgroundBrandYellow {
-  background-color: #ffe01b;
+  background-color: #FF6D27;
 }
 
 .backgroundJasmine {
@@ -51,7 +51,7 @@
 }
 
 .backgroundSquash {
-  background-color: #fbeeca;
+  background-color: #F4F3EE;
 }
 
 .backgroundRadish {
@@ -59,7 +59,7 @@
 }
 
 .backgroundYam {
-  background-color: #fbcfbd;
+  background-color: #F4F3EE;
 }
 
 .backgroundDragonfruit {
@@ -78,10 +78,10 @@
 }
 
 .backgroundPeppercorn {
-  background-color: #241c15;
-  --heading-color: #fff;
-  --copy-color: #fff;
-  --copy-color-light: hsla(0, 0%, 100%, 0.5);
+  background-color: #B2D8E8;
+  --heading-color: #056146;
+  --copy-color: #056146;
+  --copy-color-light: #056146;
 }
 
 .backgroundPeppercorn .copy-eyebrow {
@@ -89,7 +89,7 @@
 }
 
 .backgroundApricot {
-  background-color: #e7b75f;
+  background-color: #056146;
   --copy-color-light: rgba(36, 28, 21, 0.8);
 }
 
@@ -226,7 +226,7 @@
 }
 
 .badge.brand_yellow {
-  background-color: #ffe01b;
+  background-color: #FF6D27;
 }
 
 .badge.coconut {
@@ -300,18 +300,18 @@
 }
 
 :root {
-  --cta-background-color: #ffe01b;
+  --cta-background-color: #FF6D27;
   --cta-background-color-disabled: #dbd9d2;
-  --cta-stroke-color: #241c15;
+  --cta-stroke-color: #F4F3EE;
   --cta-stroke-width: 0.0625rem;
-  --cta-depth-color: #241c15;
-  --cta-text-color: #241c15;
+  --cta-depth-color: #F4F3EE;
+  --cta-text-color: #F4F3EE;
   --cta-text-size: var(--copy-info-size);
   --cta-line-height: 1.5;
   --cta-text-weight: 500;
   --cta-border-radius: 2em;
   --link-color: #241c15;
-  --link-color-hovered: #241c15;
+  --link-color-hovered: #F4F3EE;
   --link-background-hovered: rgba(255, 224, 27, 0.65);
   --selection-background-color: rgba(255, 224, 27, 0.15);
 }
@@ -648,7 +648,7 @@ a.copy-eyebrow:focus-visible {
   background-position-x: calc(100% - 0.4375rem);
   background-position-y: calc(100% - 0.4375rem);
   background-size: 1.125rem;
-  background-color: #ffe01b;
+  background-color: #FF6D27;
   -webkit-transition: left 0.3s cubic-bezier(0.34, 1.2, 0.64, 1),
     right 0.3s ease, background-position 0.3s ease;
   -o-transition: left 0.3s cubic-bezier(0.34, 1.2, 0.64, 1), right 0.3s ease,
@@ -783,7 +783,7 @@ a.copy-eyebrow:focus-visible {
     -webkit-transform: translateX(-1.125rem);
     -ms-transform: translateX(-1.125rem);
     transform: translateX(-1.125rem);
-    background: #ffe01b;
+    background: #FF6D27;
     -webkit-transition: background 0.4s ease, padding-left 0s 0s,
       -webkit-transform 0s 0s;
     transition: background 0.4s ease, padding-left 0s 0s,
@@ -878,7 +878,7 @@ a.copy-eyebrow:focus-visible {
 }
 
 .cavendishLink {
-  color: #ffe01b;
+  color: #FF6D27;
   font-size: 100%;
   font-family: Graphik Web, Helvetica Neue, Helvetica, Arial, Verdana,
     sans-serif;
@@ -890,7 +890,7 @@ a.copy-eyebrow:focus-visible {
 }
 
 .cavendishLink:hover {
-  color: #ffe01b;
+  color: #FF6D27;
 }
 
 .cavendishLink:hover:after {
@@ -1611,8 +1611,9 @@ html main .backgroundPeppercorn .ctaSecondary {
 }
 
 .formSelect--small-secondary {
-  border: 1px solid #241c15;
+  border: 1px solid #F2C9E8;
   display: inline-block;
+  color: #F2C9E8;
   padding-right: 1.875rem;
 }
 
@@ -1624,7 +1625,7 @@ html main .backgroundPeppercorn .ctaSecondary {
     sans-serif;
   font-weight: 500;
   font-size: 0.875rem;
-  color: #241c15;
+  color: #F2C9E8;
   padding: 0.625rem;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -2797,8 +2798,8 @@ main .backgroundPlum ul {
   font-family: Means Web, Georgia, Times, Times New Roman, serif;
   -webkit-font-variant-ligatures: none;
   font-variant-ligatures: none;
-  -webkit-text-decoration-color: #ffe01b;
-  text-decoration-color: #ffe01b;
+  -webkit-text-decoration-color: #FF6D27;
+  text-decoration-color: #FF6D27;
   text-decoration-thickness: 0.25rem;
   -webkit-text-decoration-line: underline;
   text-decoration-line: underline;
@@ -2993,7 +2994,7 @@ main .backgroundPlum ul {
 
 .coBrandedNav li a:focus svg.brandLogoMailchimp path.svg_circle,
 .coBrandedNav li a:hover svg.brandLogoMailchimp path.svg_circle {
-  fill: #ffe01b;
+  fill: #FF6D27;
 }
 
 .coBrandedNav li a:focus svg.brandLogoMailchimp path.svg_logo_black,
@@ -5263,7 +5264,7 @@ html.has-ch-subnav.iaNav .iaGlobalNav {
 }
 
 .languageBanner .modal__close:hover .icon--close path {
-  fill: #ffe01b !important;
+  fill: #FF6D27 !important;
 }
 
 .languageBanner__languagePicker,
@@ -5351,7 +5352,7 @@ html.has-ch-subnav.iaNav .iaGlobalNav {
 }
 
 .languageBanner__message:hover .languageBanner__message__messageButton {
-  color: #ffe01b;
+  color: #FF6D27;
   cursor: pointer;
 }
 
@@ -5362,7 +5363,7 @@ html.has-ch-subnav.iaNav .iaGlobalNav {
 }
 
 .languageBanner__message:hover svg path {
-  fill: #ffe01b;
+  fill: #FF6D27;
 }
 
 @media screen and (min-width: 37.5em) {
@@ -5430,7 +5431,7 @@ html.has-ch-subnav.iaNav .iaGlobalNav {
 
 .languageBanner__languagePicker li:not(.selectedLocale) a:hover {
   display: inline-block;
-  color: #ffe01b;
+  color: #FF6D27;
 }
 
 .languageBanner__languagePicker ul li:hover:after {
@@ -5466,7 +5467,7 @@ html.has-ch-subnav.iaNav .iaGlobalNav {
 }
 
 .languageBanner__languagePicker .languageArrow:hover svg path {
-  fill: #ffe01b;
+  fill: #FF6D27;
 }
 
 .languageBanner__languagePicker .languageArrow.languageForwardBtn {
@@ -5534,7 +5535,7 @@ html.has-ch-subnav.iaNav .iaGlobalNav {
 .languageBanner__languagePicker li a,
 .languageBanner__message__messageButton {
   outline-offset: 0.1875rem;
-  outline-color: #ffe01b !important;
+  outline-color: #FF6D27 !important;
 }
 
 .subNav {
@@ -12842,7 +12843,7 @@ html.hide-ch-nav.ch-subnav-focused .contentHubSubnav {
 }
 
 .actionablePlanRecommendations__plan.standOut .ctaBuyNow {
-  background-color: #ffe01b;
+  background-color: #FF6D27;
   padding: 0.75rem 1.5rem;
   font-size: 0.8125rem;
 }
@@ -12987,8 +12988,8 @@ html.hide-ch-nav.ch-subnav-focused .contentHubSubnav {
   font-feature-settings: none;
   -webkit-font-variant-ligatures: none;
   font-variant-ligatures: none;
-  -webkit-text-decoration-color: #ffe01b;
-  text-decoration-color: #ffe01b;
+  -webkit-text-decoration-color: #FF6D27;
+  text-decoration-color: #FF6D27;
   text-decoration-thickness: 0.5rem;
   -webkit-text-decoration-line: underline;
   text-decoration-line: underline;
@@ -13702,7 +13703,7 @@ html.hide-ch-nav.ch-subnav-focused .contentHubSubnav {
 .actionablePlanRecommendations--oneCard
   .actionablePlanRecommendations__plan
   .ctaBuyNow {
-  background-color: #ffe01b;
+  background-color: #FF6D27;
   padding: 0.75rem 1.5rem;
 }
 
@@ -14499,8 +14500,8 @@ html.hide-ch-nav.ch-subnav-focused .contentHubSubnav {
 
 .smsAddonHero .h1 span {
   text-decoration: underline;
-  -webkit-text-decoration-color: #ffe01b;
-  text-decoration-color: #ffe01b;
+  -webkit-text-decoration-color: #FF6D27;
+  text-decoration-color: #FF6D27;
   text-decoration-thickness: 0.2em;
 }
 
@@ -16597,7 +16598,7 @@ thead.pricingGrid__plansHeader th {
   margin-top: var(--iaGlobalNavHeight);
   height: auto;
   padding: 1rem;
-  background-color: #ffe01b;
+  background-color: #FF6D27;
   color: #000;
   font-family: Graphik Web, Helvetica Neue, Helvetica, Arial, Verdana,
     sans-serif;
@@ -17459,8 +17460,8 @@ thead.pricingGrid__plansHeader th {
   font-feature-settings: none;
   -webkit-font-variant-ligatures: none;
   font-variant-ligatures: none;
-  -webkit-text-decoration-color: #ffe01b;
-  text-decoration-color: #ffe01b;
+  -webkit-text-decoration-color: #FF6D27;
+  text-decoration-color: #FF6D27;
   text-decoration-thickness: 0.5rem;
   -webkit-text-decoration-line: underline;
   text-decoration-line: underline;
@@ -17536,8 +17537,8 @@ thead.pricingGrid__plansHeader th {
   font-feature-settings: none;
   -webkit-font-variant-ligatures: none;
   font-variant-ligatures: none;
-  -webkit-text-decoration-color: #ffe01b;
-  text-decoration-color: #ffe01b;
+  -webkit-text-decoration-color: #FF6D27;
+  text-decoration-color: #FF6D27;
   text-decoration-thickness: 0.5rem;
   -webkit-text-decoration-line: underline;
   text-decoration-line: underline;
@@ -17990,7 +17991,7 @@ thead.pricingGrid__plansHeader th {
 
 .planSelector__callout__feature:before {
   content: "";
-  background-color: #ffe01b;
+  background-color: #FF6D27;
   width: 0.5rem;
   height: 0.5rem;
   border-radius: 0.25rem;
@@ -18103,22 +18104,22 @@ thead.pricingGrid__plansHeader th {
     155deg,
     transparent,
     transparent 0.125rem,
-    #ffe01b 0,
-    #ffe01b 0.4375rem
+    #FF6D27 0,
+    #FF6D27 0.4375rem
   );
   background-image: -o-repeating-linear-gradient(
     155deg,
     transparent,
     transparent 0.125rem,
-    #ffe01b 0.125rem,
-    #ffe01b 0.4375rem
+    #FF6D27 0.125rem,
+    #FF6D27 0.4375rem
   );
   background-image: repeating-linear-gradient(
     -65deg,
     transparent,
     transparent 0.125rem,
-    #ffe01b 0,
-    #ffe01b 0.4375rem
+    #FF6D27 0,
+    #FF6D27 0.4375rem
   );
 }
 
@@ -18826,7 +18827,7 @@ thead.pricingGrid__plansHeader th {
 
 .planSelector__results__recommendedPlan__title em {
   font-style: normal;
-  border-bottom: 0.375rem solid #ffe01b;
+  border-bottom: 0.375rem solid #FF6D27;
   display: inline-block;
   line-height: 0.9;
 }
@@ -19371,7 +19372,7 @@ div[data-module-id="p23Headliner"]
 
 .pricing-grid-dot-mixin {
   content: "";
-  background-color: #ffe01b;
+  background-color: #FF6D27;
   width: 0.5rem;
   height: 0.5rem;
   border-radius: 0.25rem;
@@ -19390,7 +19391,7 @@ div[data-module-id="p23Headliner"]
 .pricingCompareGrid tbody tr th[scope="row"].planSelector__dot:before {
   display: none;
   content: "";
-  background-color: #ffe01b;
+  background-color: #FF6D27;
   width: 0.5rem;
   height: 0.5rem;
   border-radius: 0.25rem;
@@ -19413,7 +19414,7 @@ div[data-module-id="p23Headliner"]
   th[scope="row"].planSelector__dot
   [data-module-id="tooltipModal"]:after {
   content: "";
-  background-color: #ffe01b;
+  background-color: #FF6D27;
   width: 0.5rem;
   height: 0.5rem;
   border-radius: 0.25rem;
